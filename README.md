@@ -1,4 +1,17 @@
 ## Olá eu sou a Leonardo, Sou Programador!
+Algumas coisinhas que Atualmente estou estudano são:
+
+## Javascript ##
+## Python ##
+////////////////
+## TypeScript ##
+## Node ##
+## noSQL ##
+## React ##
+## hooks ##
+## MySQL ##
+## Git ##
+## API ##
 
 <div align="center">
   <a href="https://github.com/Leonardo-009">
