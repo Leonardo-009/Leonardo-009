@@ -1,7 +1,7 @@
 ## Olá me chamo Leo!
 Algumas coisinhas que Atualmente estou estudano são:
 ## Python,JavaScript, TypeScript, Node, React ##
-## noSQL, hooks, MySQL, Git, API ##
+## noSQL, hooks, MySQL, Git, API, AWS ##
 
 <div align="center">
   <a href="https://github.com/Leonardo-009">
