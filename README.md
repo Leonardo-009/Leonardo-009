@@ -1,7 +1,10 @@
-## Olá me chamo Leo!
-Algumas coisinhas que Atualmente estou estudano são:
-## Python,JavaScript, TypeScript, Node, React ##
-## noSQL, hooks, MySQL, Git, API, AWS ##
+## Olá me chamo Leonardo!
+
+Tenho 25 anos
+
+Sou apaixonado por tecnologia, segurança da informação assim como ciberseguranca, desenvolvimento, inovação e possibilidades.
+
+Estou em busca de experiencias de trabalho no momento, Aqui vocês poderão ver algums dos meus projetos.
 
 <div align="center">
   <a href="https://github.com/Leonardo-009">
@@ -14,7 +17,7 @@ Algumas coisinhas que Atualmente estou estudano são:
   <img align="center" alt="Leo-MSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Leo-HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Leo-NODEJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Leo-NODEJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Leo-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 
 
