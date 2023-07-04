@@ -5,7 +5,7 @@ Com alguma experiência em DevOps, tive a oportunidade de trabalhar em alguns pr
 
 # 🚀 Competências
 
-Meu foco principal é o Cloud, onde pretendo me especializar em DevOps Cloud, Integração Contínua e Entrega Contínua (CI/CD). Tenho competência em JavaScript, Python, Docker, Kubernetes, Terraform, CI/CD e Amazon Web Services (AWS), e possuo amplo conhecimento em bibliotecas populares, como Angular, Node.js e React.
+Meu foco principal é o Cloud, onde pretendo me desenvolver em DevOps Cloud, Integração Contínua e Entrega Contínua (CI/CD). Tenho competência em JavaScript, Python, Docker, Kubernetes, Terraform, CI/CD e Amazon Web Services (AWS), e possuo amplo conhecimento em bibliotecas populares, como Angular, Node.js e React.
 
 # 💻 Tech Stack
 
