@@ -1,11 +1,20 @@
 # 👋 Olá
 
-Me chamo Leonardo Pelanda, sou um desenvolvedor apaixonado e entusiasta pela tecnologia da Informação e da Cultura DevOps. <br />
+Me chamo Leonardo Pelanda, sou um estudante de Sistemas de Informação e de Análise e Desenvolvimento de Sistemas apaixonado e entusiasta pela tecnologia da Informação e da Cultura DevOps. <br />
 Com alguma experiência em DevOps, tive a oportunidade de trabalhar em alguns projetos pessoais e empolgantes além de explorar diversas tecnologias novas.
 
 # 🚀 Competências
 
-Meu foco principal é o Cloud, onde pretendo me desenvolver em DevOps Cloud, Integração Contínua e Entrega Contínua (CI/CD). Tenho competência em JavaScript, Python, Docker, Kubernetes, Terraform, CI/CD e Amazon Web Services (AWS), e possuo amplo conhecimento em bibliotecas populares, como Angular, Node.js e React.
+Aqui estão minhas principais competências:
+
+Conhecimentos técnicos em segurança da informação.
+Tenho afinidade com a plataforma Cloud da Amazon AWS, EC2, S3, Lambda e IAM
+Conhecimento em ISO27001 e LGPD.
+
+Também possuo experiência prévia na área DevOps, com conhecimentos em Docker, Kubernetes e Amazon Web Services (AWS).
+Habilidades em linguagens de programação como JavaScript, TypeScript e Python.
+
+Sistemas operacionais Linux.
 
 # 💻 Tech Stack
 
