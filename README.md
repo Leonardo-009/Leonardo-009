@@ -1,58 +1,43 @@
-<<<<<<< HEAD
 ## <a target="_blank" rel="noopener noreferrer" href="/assets//welcomeglitch.gif"><img src="/assets//welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Olá, meu nome é Leonardo Pelanda <img height="40" src="/assets/OshiNoKo.gif"/>
-=======
-# 👋 Olá
->>>>>>> 1d3873a29c241e917cb33aa69f9bd2b572dba91d
 
-Me chamo Leonardo Pelanda, sou um estudante de Sistemas de Informação e de Análise e Desenvolvimento de Sistemas apaixonado e entusiasta pela tecnologia da Informação e da Cultura DevOps. <br />
-Com alguma experiência em DevOps, tive a oportunidade de trabalhar em alguns projetos pessoais e empolgantes além de explorar diversas tecnologias novas.
+<img src="/assets//mariodev.gif"/>
 
-# 🚀 Competências
+```
+Meu nome é Leonardo Pelanda, tenho 27 anos. 🇧🇷 - 🇮🇹
 
-Aqui estão minhas principais competências:
+🎓 tecnologo em Análise desenvolvimento de sistemas - Centro Universitário Estácio.
+🎓 Bacharelado em Sistemas de Informação - Descomplica
 
-Conhecimentos técnicos em segurança da informação.
-Tenho afinidade com a plataforma Cloud da Amazon AWS, EC2, S3, Lambda e IAM
-Conhecimento em ISO27001 e LGPD.
+Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um programador cada vez mais
+experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando
+fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
+```
 
-Também possuo experiência prévia na área DevOps, com conhecimentos em Docker, Kubernetes e Amazon Web Services (AWS).
-Habilidades em linguagens de programação como JavaScript, TypeScript e Python.
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardoapelanda/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
+    
+##
+    
+- :computer: Atualmente estou estudando: Java, Typescript, Angula, React, NodeJS e Spring Boot.
+- :mortar_board: Cursando Análise e Desenvolvimento de Sistemas e Sistemas de Informação
+- 🔎 Hobbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
 
-Sistemas operacionais Linux.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false"/>
+</div>
 
-# 💻 Tech Stack
+##
 
-<<<<<<< HEAD
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-=======
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
->>>>>>> 1d3873a29c241e917cb33aa69f9bd2b572dba91d
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ # 💻💼 Tenho experiência em:
+ 
+ ## Front End : <a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="21px" height="21px"></a> <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 
-# 🌐 Socials:
+ ## Back End : <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a>
+ ## Cloud: <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoapelanda/)
+## Banco De Dados: </a> <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 
-# 📊 GitHub Stats:
-
-<<<<<<< HEAD
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-009&theme=neon&hide_border=false"  width="400px" />
-=======
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-009&theme=neon&hide_border=false"  width="400px" />
->>>>>>> 1d3873a29c241e917cb33aa69f9bd2b572dba91d
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  width="364px" />
+ # 💻📚 Tenho conhecimento: <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX" width="50px" height="25px"></a>
