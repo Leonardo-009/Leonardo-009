@@ -42,5 +42,4 @@ fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologi
 
  # 💻📚 Tenho conhecimento: <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX" width="50px" height="25px"></a>
 
- ![Snake animation](https://github.com/Leonardo-009blob)
- https://github.com/Leonardo-009
+ ![snake gif](https://github.com/Leonardo-009/Leonardo-009/blob/output/github-contribution-grid-snake.svg)
