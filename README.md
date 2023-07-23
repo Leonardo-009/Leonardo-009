@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## <a target="_blank" rel="noopener noreferrer" href="/assets//welcomeglitch.gif"><img src="/assets//welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Olá, meu nome é Leonardo Pelanda <img height="40" src="/assets/OshiNoKo.gif"/>
+=======
+# 👋 Olá
+>>>>>>> 1d3873a29c241e917cb33aa69f9bd2b572dba91d
 
 Me chamo Leonardo Pelanda, sou um estudante de Sistemas de Informação e de Análise e Desenvolvimento de Sistemas apaixonado e entusiasta pela tecnologia da Informação e da Cultura DevOps. <br />
 Com alguma experiência em DevOps, tive a oportunidade de trabalhar em alguns projetos pessoais e empolgantes além de explorar diversas tecnologias novas.
@@ -18,7 +22,11 @@ Sistemas operacionais Linux.
 
 # 💻 Tech Stack
 
+<<<<<<< HEAD
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+=======
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+>>>>>>> 1d3873a29c241e917cb33aa69f9bd2b572dba91d
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,5 +50,9 @@ Sistemas operacionais Linux.
 
 # 📊 GitHub Stats:
 
+<<<<<<< HEAD
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-009&theme=neon&hide_border=false"  width="400px" />
+=======
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-009&theme=neon&hide_border=false"  width="400px" />
+>>>>>>> 1d3873a29c241e917cb33aa69f9bd2b572dba91d
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  width="364px" />
