@@ -20,7 +20,7 @@ fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologi
     
 ##
     
-- :computer: Atualmente estou estudando: Javascript, Typescript, Angula, React e NodeJS.
+- :computer: Atualmente estou estudando: Javascript, Java, React, Angula, NodeJS e Spring Boot
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas e Sistemas de Informação
 - 🔎 Hobbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
 
