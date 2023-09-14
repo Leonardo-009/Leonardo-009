@@ -1,6 +1,6 @@
 ## <a target="_blank" rel="noopener noreferrer" href="/assets//welcomeglitch.gif"><img src="/assets//welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Olá, meu nome é Leonardo Pelanda <img height="40" src="/assets/OshiNoKo.gif"/>
 
-<img src="/assets//mariodev.gif"/>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ```
 Meu nome é Leonardo Pelanda, tenho 27 anos. 🇧🇷 - 🇮🇹
