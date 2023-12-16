@@ -5,7 +5,7 @@
 ```
 Olá meu nome é Leonardo Pelanda, tenho 27 anos. 🇧🇷 - 🇮🇹
 
-Sou fascinado por computação desde criança e, atualmente, tenho me dedicado a me tornar uma referência na área de DevOps,
+Sou fascinado por computação desde criança e atualmente, tenho me dedicado a me tornar uma referência na área de DevOps,
 juntamente com a área de cibersegurança, buscando cada vez mais conhecimento.
 Sou experiente e capacitado para atender às demandas do mercado com maestria.
 Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à tecnologia em paralelo.
@@ -39,4 +39,4 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
 ## DevSecOps: <a title="sonarqube"><img height="40" src="/assets/sonarqube.png" /></a> <a title="OWASP"><img height="40" src="/assets/OWASP.png" /></a>
 
-## Cyber Segurança: <a title="red-team"><img height="40" src="/assets/red-team.png" /></a> <a title="blue-team"><img height="40" src="/assets/blue-team.png" /></a> <a title="SIEM"><img height="40" src="/assets/siem.png" /></a> <a title="LGPD"><img height="40" src="/assets/LGPD.png" /></a> <a title="ISO2001"><img height="40" src="/assets/ISO-27001.png" /></a>
+## cibersegurança: <a title="red-team"><img height="40" src="/assets/red-team.png" /></a> <a title="blue-team"><img height="40" src="/assets/blue-team.png" /></a> <a title="SIEM"><img height="40" src="/assets/siem.png" /></a> <a title="LGPD"><img height="40" src="/assets/LGPD.png" /></a> <a title="ISO2001"><img height="40" src="/assets/ISO-27001.png" /></a>
