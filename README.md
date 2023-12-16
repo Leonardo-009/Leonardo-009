@@ -35,8 +35,8 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
  # 💻💼 Tenho experiência em:
 
-## DevOps: <a title="Docker"><img src="/assets/docker.png" /></a>   <a title="Terraform"><img src="/assets/terraform.png" /></a>  <a title="Ansible"><img src="/assets/ansible.png" /></a>  <a title="Visual Studio Code"><img src="/assets/vscode.png" /></a>  <a title="GitHub"><img src="/assets/github.png" /></a>  <a title="Git"><img src="/assets/git.png" /></a>
+## DevOps: <a title="Docker"><img src="/assets/docker.png" /></a> <a title="Terraform"><img src="/assets/terraform.png" /></a>  <a title="Ansible"><img src="/assets/ansible.png" /></a>   <a title="GitHub"><img height="40" src="/assets/kubernetes.png" /></a> <a title="GitHub"><img height="40" src="/assets/linux.png" /></a> <a title="GitHub"><img  height="40" src="/assets/Grafana.png" /></a> <a title="GitHub"><img height="40" src="/assets/prometheus.png" /></a>  <a title="GitHub"><img height="40" src="/assets/Azure.png" /></a> <a title="GitHub"><img height="40" src="/assets/aws.png" /></a> <a title="GitHub"><img height="40" src="/assets/github.png" /></a> <a title="Git"><img src="/assets/git.png" /></a> <a title="Visual Studio Code"><img src="/assets/vscode.png" /></a>
 
-## DevSecOps:
+## DevSecOps: <a title="sonarqube"><img height="40" src="/assets/sonarqube.png" /></a> <a title="OWASP"><img height="40" src="/assets/OWASP.png" /></a>
 
-## Cyber Segurança:
+## Cyber Segurança: <a title="red-team"><img height="40" src="/assets/red-team.png" /></a> <a title="blue-team"><img height="40" src="/assets/blue-team.png" /></a> <a title="SIEM"><img height="40" src="/assets/siem.png" /></a> <a title="LGPD"><img height="40" src="/assets/LGPD.png" /></a> <a title="ISO2001"><img height="40" src="/assets/ISO-27001.png" /></a>
