@@ -35,8 +35,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
  # 💻💼 Tenho experiência em:
 
-## DevOps: <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
-<img title="Docker" alt="Docker" src="/assets/docker.png" width="21px" height="21px" />
+## DevOps: <a href="https://www.docker.com/" title="docker"><img title="Docker" alt="Docker" src="/assets/docker.png" width="50px" height="50px" /></a>
 
 ## DevSecOps: 
 
