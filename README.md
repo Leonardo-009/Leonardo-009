@@ -3,14 +3,16 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ```
-Meu nome é Leonardo Pelanda, tenho 27 anos. 🇧🇷 - 🇮🇹
+Olá meu nome é Leonardo Pelanda, tenho 27 anos. 🇧🇷 - 🇮🇹
 
-🎓 tecnologo em Análise desenvolvimento de sistemas - Centro Universitário Estácio.
-🎓 Bacharelado em Sistemas de Informação - Descomplica
+Sou fascinado por computação desde criança e, atualmente, tenho me dedicado a me tornar uma referência na área de DevOps,
+juntamente com a área de cibersegurança, buscando cada vez mais conhecimento.
+Sou experiente e capacitado para atender às demandas do mercado com maestria.
+Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à tecnologia em paralelo.
 
-Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um programador cada vez mais
-experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando
-fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
+🎓 Pós-mba em Seguranca Da Informação - Descomplica - Cursando
+🎓 tecnologo em Análise desenvolvimento de sistemas - Centro Universitário Estácio - Formado
+🎓 Bacharelado em Sistemas de Informação - Descomplica - Cursando
 ```
 
 <div align="center">
@@ -20,8 +22,8 @@ fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologi
     
 ##
     
-- :computer: Atualmente estou estudando: Javascript, NodeJS, e Angula
-- :mortar_board: Cursando Análise e Desenvolvimento de Sistemas e Sistemas de Informação
+- :computer: Atualmente, estou envolvido com estudos em tecnologias que englobam DevOps, DevSecOps e cibersegurança.
+- :mortar_board: Estou Cursando Sistemas de Informação e Seguranca Da Informação
 - 🔎 Hobbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
 
 <div align="center">
@@ -33,13 +35,7 @@ fazendo cursos de  programação e pesquisando assuntos relacionadas a tecnologi
 
  # 💻💼 Tenho experiência em:
 
- ## Front End : <a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="21px" height="21px"></a> <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-
- ## Back End : <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>  <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a>
- ## Cloud: <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
-
-
-## Banco De Dados: </a> <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a> <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+## DevOps: <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
  # 💻📚 Tenho conhecimento:
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px"></a> <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a> <a href="https://git-scm.com/" title="Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX" width="50px" height="25px"></a> <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a> <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
