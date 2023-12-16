@@ -35,8 +35,13 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
  # 💻💼 Tenho experiência em:
 
-## DevOps: <a href="https://www.docker.com/" title="docker"><img title="Docker" alt="Docker" src="/assets/docker.png" width="50px" height="50px" /></a>
+## DevOps: <a title="Docker"><img src="/assets/docker.png" /></a>
+  <a title="Terraform"><img src="/assets/terraform.png" /></a>
+  <a title="Ansible"><img src="/assets/ansible.png" /></a>
+  <a title="Visual Studio Code"><img src="/assets/vscode.png" /></a>
+  <a title="GitHub"><img src="/assets/github.png" /></a>
+  <a title="Git"><img src="/assets/git.png" /></a>
 
-## DevSecOps: 
+## DevSecOps:
 
 ## Cyber Segurança:
