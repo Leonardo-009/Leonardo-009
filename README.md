@@ -105,16 +105,9 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
 <div>
     <img src="https://img.shields.io/badge/-AppScan-FF5722?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-4CAF50?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-FFC107?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Software Composition Analysis (SCA)
-
-<div>
-    <img src="https://img.shields.io/badge/-Snyk-FFC107?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sonatype-2196F3?style=for-the-badge&logo=&logoColor=white" />
-</div>
 
 ## Skills
 
@@ -122,11 +115,9 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
    |-----------------------------------------------|
    | DevOps                                        |
    | DevSecOps                                     |
-   | NIST (National Institute of Standards and Technology) |
    | Vulnerability Assessment                      |
    | OWASP                                         |
    | Security Controls                             |
-   | Code Review                                   |
    | Web Application Security                      |
    | Penetration Testing                           |
    | Social Engineering                            |
