@@ -1,30 +1,26 @@
-## <a target="_blank" rel="noopener noreferrer" href="/assets//welcomeglitch.gif"><img src="/assets//welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Olá, meu nome é Leonardo Pelanda <img height="40" src="/assets/OshiNoKo.gif"/>
+## <a target="_blank" rel="noopener noreferrer" href="/assets//welcomeglitch.gif"><img src="/assets//welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Olá, seja bem-vindo ao meu GitHub. Eu me chamo Leonardo! <img height="40" src="/assets/OshiNoKo.gif"/>
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ```
-Olá meu nome é Leonardo Pelanda, tenho 27 anos. 🇧🇷 - 🇮🇹
+Olá meu nome é Leonardo De Alencar Pelanda
 
-Sou fascinado por computação desde criança e atualmente, tenho me dedicado a me tornar uma referência na área de DevOps,
-juntamente com a área de cibersegurança, buscando cada vez mais conhecimento.
+Sou fascinado por computação desde criança e atualmente, tenho me dedicado a me tornar uma referência na área de Cybersecurity,
+buscando cada vez mais conhecimento.
 Sou experiente e capacitado para atender às demandas do mercado com maestria.
-Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à tecnologia em paralelo.
+Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à Cybersecurity.
 
 🎓 Pós-mba em Seguranca Da Informação - Descomplica - Cursando
 🎓 tecnologo em Análise desenvolvimento de sistemas - Centro Universitário Estácio - Formado
 🎓 Bacharelado em Sistemas de Informação - Descomplica - Cursando
 ```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/leonardoapelanda/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</div>
     
 ##
     
-- :computer: Atualmente, estou envolvido com estudos em tecnologias que englobam DevOps, DevSecOps e cibersegurança.
-- :mortar_board: Estou Cursando Sistemas de Informação e Seguranca Da Informação
-- 🔎 Hobbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
+- :computer: Atualmente, estou envolvido em estudos de cibersegurança, utilizando as plataformas TryHackMe, PortSwigger e Hack The Box. Além disso, participo do programa de estudos do governo "Hackers do Bem".
+- :mortar_board: Sou formado em Análise desenvolvimento de sistema e Cursando Sistemas de Informação e Seguranca Da Informação
+- 🔎 Hobbies: Fazer CTF, Jogos, Filmes & Series, Animes e Mangas.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -33,10 +29,105 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
 ##
 
- # 💻💼 Tenho experiência e Conhecimento:
+<div style="display: inline_block"><br>
+  <img align="center" alt="George-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="George-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-## DevOps: <a title="Docker"><img src="/assets/docker.png" /></a>  <a title="Terraform"><img src="/assets/terraform.png" /></a>  <a title="Ansible"><img src="/assets/ansible.png" /></a>   <a title="GitHub"><img height="40" src="/assets/kubernetes.png" /></a>  <a title="GitHub"><img height="45" src="/assets/linux.png" /></a>  <a title="GitHub"><img  height="40" src="/assets/Grafana.png" /></a>  <a title="GitHub"><img height="25" src="/assets/prometheus.png" /></a>  <a title="GitHub"><img height="25" src="/assets/Azure.png" /></a>  <a title="GitHub"><img height="40" src="/assets/aws.png" /></a>  <a title="GitHub"><img height="40" src="/assets/github.png" /></a>  <a title="Git"><img src="/assets/git.png" /></a> <a title="Visual Studio Code"><img src="/assets/vscode.png" /></a>
+##
 
-## DevSecOps: <a title="sonarqube"><img height="40" src="/assets/sonarqube.png" /></a> <a title="OWASP"><img height="40" src="/assets/OWASP.png" /></a>
+<div> 
+  <a href="https://www.instagram.com/leo_pelanda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "leonardoapelanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardoapelanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-## cibersegurança: <a title="red-team"><img height="40" src="/assets/red-team.png" /></a> <a title="blue-team"><img height="40" src="/assets/blue-team.png" /></a> <a title="SIEM"><img height="40" src="/assets/siem.png" /></a> <a title="LGPD"><img height="40" src="/assets/LGPD.png" /></a> <a title="ISO2001"><img height="40" src="/assets/ISO-27001.png" /></a>
+# Lista de conhecimento de ferramentas de Cybersecurity
+
+## Reconhecimento:
+
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-E95645?style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-FF5722?style=for-the-badge&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_dorks-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Modelagem de ameaças
+
+<div>
+    <img src="https://img.shields.io/badge/-Threat_Modeling-FF5733?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DREAD_Score-4B0082?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Attack_Tree-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-STRIDE_Model-00CED1?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Análise de Vulnerabilidade
+<div>
+    <img src="https://img.shields.io/badge/-OpenSCAP-FF5722?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wfuzz-FF6347?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Exploração
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExploitDB-FF9800?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLMap-F44336?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-009688?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ZAP-9ACD32?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sqlninja-FFD700?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerSploit-7B68EE?style=for-the-badge&logo=&logoColor=white" />
+
+</div>
+
+## Pós-exploração
+
+<div>
+    <img src="https://img.shields.io/badge/-Meterpreter-3F51B5?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell_Empire-FF5722?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Static Application Security Testing (SAST)
+
+<div>
+    <img src="https://img.shields.io/badge/-SonarQube-4CAF50?style=for-the-badge&logo=SonarQube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Veracode-009688?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortify-FFC107?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Dynamic Application Security Testing (DAST)
+
+<div>
+    <img src="https://img.shields.io/badge/-AppScan-FF5722?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-4CAF50?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-FFC107?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Software Composition Analysis (SCA)
+
+<div>
+    <img src="https://img.shields.io/badge/-Snyk-FFC107?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sonatype-2196F3?style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+## Skills
+
+   | Skill                                         |
+   |-----------------------------------------------|
+   | DevOps                                        |
+   | DevSecOps                                     |
+   | NIST (National Institute of Standards and Technology) |
+   | Vulnerability Assessment                      |
+   | OWASP                                         |
+   | Security Controls                             |
+   | Code Review                                   |
+   | Web Application Security                      |
+   | Penetration Testing                           |
+   | Social Engineering                            |
+
