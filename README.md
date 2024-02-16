@@ -44,7 +44,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
 # Lista de conhecimento de ferramentas de Cybersecurity
 
-## Reconhecimento:
+## Reconhecimento em evolução...⚙️
 
 <div>
     <img src="https://img.shields.io/badge/-Nmap-E95645?style=for-the-badge&logo=Nmap&logoColor=white" />
@@ -55,7 +55,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
     <img src="https://img.shields.io/badge/-OWASP_ZAP-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Modelagem de ameaças
+## Modelagem de ameaças em evolução...⚙️
 
 <div>
     <img src="https://img.shields.io/badge/-Threat_Modeling-FF5733?style=for-the-badge&logo=&logoColor=white" />
@@ -64,13 +64,13 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
     <img src="https://img.shields.io/badge/-STRIDE_Model-00CED1?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Análise de Vulnerabilidade
+## Análise de Vulnerabilidade em evolução...⚙️
 <div>
     <img src="https://img.shields.io/badge/-OpenSCAP-FF5722?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wfuzz-FF6347?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Exploração
+## Exploração em evolução...⚙️
 <div>
     <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-ExploitDB-FF9800?style=for-the-badge&logo=&logoColor=white" />
@@ -84,7 +84,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
 </div>
 
-## Pós-exploração
+## Pós-exploração em evolução...⚙️
 
 <div>
     <img src="https://img.shields.io/badge/-Meterpreter-3F51B5?style=for-the-badge&logo=&logoColor=white" />
@@ -93,7 +93,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
     <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Static Application Security Testing (SAST)
+## Static Application Security Testing (SAST) em evolução...⚙️
 
 <div>
     <img src="https://img.shields.io/badge/-SonarQube-4CAF50?style=for-the-badge&logo=SonarQube&logoColor=white" />
@@ -101,7 +101,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
     <img src="https://img.shields.io/badge/-Fortify-FFC107?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Dynamic Application Security Testing (DAST)
+## Dynamic Application Security Testing (DAST) em evolução...⚙️
 
 <div>
     <img src="https://img.shields.io/badge/-AppScan-FF5722?style=for-the-badge&logo=&logoColor=white" />
