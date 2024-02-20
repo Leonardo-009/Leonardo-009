@@ -35,7 +35,19 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
   <a href="https://www.linkedin.com/in/leonardoapelanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
+
 # Lista de conhecimento de ferramentas de Cybersecurity
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+##
+
 
 ## Reconhecimento em evolução...⚙️
 
@@ -98,4 +110,10 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
    |-----------------------------------------------|
    | DevOps                                        |
    | DevSecOps                                     |
-
+   | Information Security                          |
+   | Vulnerability Assessment                      |
+   | OWASP                                         |
+   | Code Review                                   |
+   | Web Application Security                      |
+   | Penetration Testing                           |
+   | Social Engineering                            |
