@@ -49,19 +49,9 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 <div>
     <img src="https://img.shields.io/badge/-Nmap-E95645?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-FF5722?style=for-the-badge&logo=Shodan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_dorks-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-2F4F4F?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-## Modelagem de ameaças em evolução...⚙️
-
-<div>
-    <img src="https://img.shields.io/badge/-Threat_Modeling-FF5733?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DREAD_Score-4B0082?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Attack_Tree-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-STRIDE_Model-00CED1?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Análise de Vulnerabilidade em evolução...⚙️
