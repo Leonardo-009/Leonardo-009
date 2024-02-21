@@ -5,10 +5,10 @@
 ```
 Olá meu nome é Leonardo De Alencar Pelanda
 
-Sou fascinado por computação desde criança e atualmente, tenho me dedicado a me tornar uma referência na área de Cybersecurity,
+Sou fascinado por computação desde criança e atualmente, tenho me dedicado a me tornar uma referência na área de TI,
 buscando cada vez mais conhecimento.
 Sou experiente e capacitado para atender às demandas do mercado com maestria.
-Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à Cybersecurity.
+Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à DevOps e Cybersecurity.
 
 🎓 Pós-mba em Seguranca Da Informação - Descomplica - Cursando
 🎓 tecnologo em Análise desenvolvimento de sistemas - Centro Universitário Estácio - Formado
@@ -18,7 +18,7 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
     
 ##
     
-- :computer: Atualmente, estou envolvido em estudos de cibersegurança, utilizando as plataformas TryHackMe, PortSwigger e Hack The Box. Além disso, participo do programa de estudos do governo "Hackers do Bem".
+- :computer: Atualmente, estou envolvido em estudos em DevOps e  Cibersegurança, utilizando as plataformas fullcycle, TryHackMe, PortSwigger e Hack The Box. Além disso, participo do programa de estudos do governo "Hackers do Bem".
 - :mortar_board: Sou formado em Análise desenvolvimento de sistema e Cursando Sistemas de Informação e  estou fazendo MBA-Pós em Seguranca Da Informação
 - 🔎 Hobbies: Fazer CTF, Jogos, Filmes & Series, Animes e Mangas.
 
