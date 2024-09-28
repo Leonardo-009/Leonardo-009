@@ -18,9 +18,9 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
     
 ##
     
-- :computer: Atualmente, estou envolvido em estudos em DevOps e  Cibersegurança, utilizando as plataformas fullcycle, TryHackMe, PortSwigger e Hack The Box. Além disso, participo do programa de estudos do governo "Hackers do Bem".
+- :computer: Atualmente, estou envolvido em estudos em Cybersecurity, utilizando as plataformas, TryHackMe, PortSwigger e Hack The Box. Além disso.
 - :mortar_board: Sou formado em Análise desenvolvimento de sistema e Cursando Sistemas de Informação e  estou fazendo MBA-Pós em Seguranca Da Informação
-- 🔎 Hobbies: Fazer CTF, Jogos, Filmes & Series, Animes e Mangas.
+- 🔎 Hobbies: Fazer Pentest, CTF, Jogos, Filmes & Series, Animes e Mangas.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -108,12 +108,9 @@ Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos re
 
    | Skill                                         |
    |-----------------------------------------------|
-   | DevOps                                        |
-   | DevSecOps                                     |
-   | Information Security                          |
-   | Vulnerability Assessment                      |
-   | OWASP                                         |
-   | Code Review                                   |
-   | Web Application Security                      |
-   | Penetration Testing                           |
+   | Cybersecurity                                 |
+   | SOC                                           |
+   | Threat Intelligence                           |
+   | Threat Hunting                                |
+   | Pentest                                       |
    | Social Engineering                            |
