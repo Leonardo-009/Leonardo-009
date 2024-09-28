@@ -8,7 +8,7 @@ Olá meu nome é Leonardo De Alencar Pelanda
 Sou fascinado por computação desde criança e atualmente, tenho me dedicado a me tornar uma referência na área de TI,
 buscando cada vez mais conhecimento.
 Sou experiente e capacitado para atender às demandas do mercado com maestria.
-Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à DevOps e Cybersecurity.
+Para isso, estou sempre me atualizando, fazendo cursos e pesquisando assuntos relacionados à Cybersecurity.
 
 🎓 Pós-mba em Seguranca Da Informação - Descomplica - Cursando
 🎓 tecnologo em Análise desenvolvimento de sistemas - Centro Universitário Estácio - Formado
