@@ -82,7 +82,6 @@
 ### 🔍 Análise de Logs & Forense
 <div align="center">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-FF6B6B?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-4A90E2?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sleuth_Kit-FFD700?style=for-the-badge&logo=&logoColor=white" />
 </div>
