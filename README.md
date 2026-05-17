@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardoapelanda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoapelanda/)
 [![Gmail](https://img.shields.io/badge/Gmail-leonardoapelanda-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardoapelanda@gmail.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Ulfhedinn-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2407757?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-SrR00t-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2407757?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 [![Profile Views](https://komarev.com/ghpvc/?username=Leonardo-009&style=flat-square&color=C1121F&label=profile+views)](https://github.com/Leonardo-009)
 
 </div>
