@@ -1,142 +1,185 @@
-# <a target="_blank" rel="noopener noreferrer" href="/assets//welcomeglitch.gif"><img src="/assets//welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> Leonardo De Alencar Pelanda <img height="40" src="/assets/OshiNoKo.gif"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C1121F&height=140&section=header&text=Leonardo%20Pelanda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Penetration%20Tester%20%7C%20SOC%20Analyst&descSize=18&descAlignY=85&descColor=ffcccc"/>
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo;I'm+from+Brazil;I'm+Cybersecurity+Analyst;SOC+Analyst;Incident+Response+Specialist;Welcome!+:%29" />
-</div>
+<img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=C1121F&center=true&vCenter=true&width=860&lines=Penetration+Tester;SOC+Analyst+%26+Incident+Responder;CTF+Player+%7C+HackTheBox" />
+<br/>
+<br/>
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardoapelanda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoapelanda/)
+[![Gmail](https://img.shields.io/badge/Gmail-leonardoapelanda-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardoapelanda@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Ulfhedinn-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2407757?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+[![Profile Views](https://komarev.com/ghpvc/?username=Leonardo-009&style=flat-square&color=C1121F&label=profile+views)](https://github.com/Leonardo-009)
+
+</div>
 
 ---
 
-## 🛡️ SOC Analyst & Cybersecurity Specialist
+## 👾 Sobre Mim
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-Expert-blue?style=for-the-badge&logo=shield-check" />
-  <img src="https://img.shields.io/badge/Incident%20Response-Specialist-red?style=for-the-badge&logo=alert-triangle" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-Advanced-orange?style=for-the-badge&logo=search" />
-  <img src="https://img.shields.io/badge/Security%20Monitoring-Expert-green?style=for-the-badge&logo=eye" />
-</div>
-
-### 📋 Sobre Mim
-
+```yaml
+name:        "Leonardo De Alencar Pelanda"
+location:    "Brasil 🇧🇷"
+role:        "Penetration Tester | SOC Analyst | Incident Responder"
+interests:
+  - Active Directory Attack Chains
+  - Detection Engineering & SIEM Tuning
+  - CTF Challenges & HackTheBox Machines
+  - Bug Bounty Research (HackerOne)
+  - Security Automation & Tooling
 ```
-🔒 Analista de SOC especializado em monitoramento e resposta a incidentes
-🎯 Focado em detecção de ameaças e análise forense
-🚀 Experiência em plataformas de SIEM e ferramentas de segurança
-📊 Especialista em análise de logs e correlação de eventos
-```
-
-### 🎓 Formação Acadêmica
-- **Pós-MBA em Segurança da Informação** - Descomplica (Formado)
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Centro Universitário Estácio (Formado)
-
-### 🚀 Experiência Atual
-- **SOC Analyst** - Monitoramento e resposta a incidentes de segurança
-- **Incident Response Specialist** - Análise e contenção de ameaças
-- **Threat Hunting** - Busca proativa por indicadores de comprometimento
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Competências Ofensivas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=neon&hide_border=false&include_all_commits=false&count_private=false"/>
-</div>
 
----
+| 🔍 Reconhecimento & OSINT | 🌐 Web Application |
+|---|---|
+| Subdomain & DNS Enumeration | OWASP Top 10 Exploitation |
+| Port Scanning & Service Fingerprinting | SQL Injection & Auth Bypass |
+| Directory & Content Discovery | CORS Misconfiguration |
+| Google Dorking & Shodan | OAuth / OIDC Attack Chains |
+| OSINT — People, Orgs & Infrastructure | XSS, SSRF & Business Logic Flaws |
+| Bug Bounty Research (HackerOne) | API Security Testing |
 
-## 📱 Redes Sociais
+| 🏴 Active Directory | 🔬 Post-Exploitation |
+|---|---|
+| Kerberoasting & AS-REP Roasting | Privilege Escalation (Windows & Linux) |
+| DCSync / Pass-the-Hash / PTT | Credential Harvesting & Dumping |
+| BloodHound Attack Path Mapping | Lateral Movement Techniques |
+| GPP Credential Decryption | Network Pivoting & Tunneling |
+| LDAP Pass-Back Attacks | Persistence Mechanisms |
+| Service Binary Hijacking | Report Writing (NIST SP 800-115) |
 
-<div align="center"> 
-  <a href="https://www.instagram.com/leo_pelanda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardoapelanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardoapelanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛡️ Stack de Segurança
 
-### 💻 Linguagens de Programação
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Leonardo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leonardo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leonardo-Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+### ⚔️ Pentest & Exploitation
+
+**`Reconhecimento`**
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-4A90D9?style=for-the-badge&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-00ADD8?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-F05033?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-FF6F00?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logoColor=white)
+![Katana](https://img.shields.io/badge/Katana-6C3483?style=for-the-badge&logoColor=white)
+
+</div>
+
+**`Exploração Web & Rede`**
+
+<div align="center">
+
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=portswigger&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-F44336?style=for-the-badge&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-009688?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2F4F4F?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
+
+**`Active Directory & Windows`**
+
+<div align="center">
+
+![Impacket](https://img.shields.io/badge/Impacket-6C3483?style=for-the-badge&logoColor=white)
+![NetExec](https://img.shields.io/badge/NetExec-00CED1?style=for-the-badge&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-C1121F?style=for-the-badge&logoColor=white)
+![Rubeus](https://img.shields.io/badge/Rubeus-8B0000?style=for-the-badge&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-FF8C00?style=for-the-badge&logoColor=white)
+
+</div>
+
+**`Pós-Exploração & Pivoting`**
+
+<div align="center">
+
+![Ligolo-ng](https://img.shields.io/badge/Ligolo--ng-333333?style=for-the-badge&logoColor=white)
+![Chisel](https://img.shields.io/badge/Chisel-4A4A4A?style=for-the-badge&logoColor=white)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-FFD700?style=for-the-badge&logoColor=black)
+![WinPEAS](https://img.shields.io/badge/WinPEAS-1E90FF?style=for-the-badge&logoColor=white)
+
+</div>
+
+### 📡 SIEM & Monitoring
+
+<div align="center">
+
+![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LogRhythm](https://img.shields.io/badge/LogRhythm-EE3124?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=for-the-badge&logoColor=white)
+![TrendMicro](https://img.shields.io/badge/Trend_Micro-D71920?style=for-the-badge&logo=trendmicro&logoColor=white)
+
+</div>
+
+### 🔬 Análise & Forense
+
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-4A90E2?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-333333?style=for-the-badge&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2F4F4F?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
+
+### 💻 Linguagens & Automação
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 </div>
 
 ---
 
-## 🔒 Ferramentas de Cybersecurity
+## 🏆 Certificações & Formação
 
-### 🎯 SIEM & Monitoramento
 <div align="center">
-    <img src="https://img.shields.io/badge/-LogRhythm-FF6B35?style=for-the-badge&logo=LogRhythm&logoColor=white" />
-    <img src="https://img.shields.io/badge/-QRadar-FF6B35?style=for-the-badge&logo=IBM&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Trend_Micro_Vision_One-FF6B35?style=for-the-badge&logo=TrendMicro&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-FF6B35?style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
 
-### 🔍 Análise de Logs & Forense
-<div align="center">
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autopsy-4A90E2?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sleuth_Kit-FFD700?style=for-the-badge&logo=&logoColor=white" />
-</div>
+| Status | Certificação | Emissor |
+|:------:|---|---|
+| 🔴 Em andamento | **Solyd Certified Pentester — SYCP** | Solyd |
+| ⬜ Próximo alvo | **HTB Certified Penetration Tester — CPTS** | HackTheBox |
+| 🟢 Concluído | Pós-MBA em Segurança da Informação | Descomplica |
+| 🟢 Concluído | Tecnólogo — Análise e Dev. de Sistemas | Estácio |
 
-### 🛡️ Ferramentas de Segurança
-<div align="center">
-    <img src="https://img.shields.io/badge/-Nmap-E95645?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-2F4F4F?style=for-the-badge&logo=OWASP&logoColor=white" />
-</div>
-
-### ⚔️ Exploração & Pentest
-<div align="center">
-    <img src="https://img.shields.io/badge/-Metasploit_Framework-1976D2?style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ExploitDB-FF9800?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLMap-F44336?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-009688?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrackMapExec-00CED1?style=for-the-badge&logo=&logoColor=white" />
-</div>
-
-### 🎯 Análise de Vulnerabilidades
-<div align="center">
-    <img src="https://img.shields.io/badge/-Nessus-00A8E1?style=for-the-badge&logo=Tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-00A8E1?style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nexpose-00A8E1?style=for-the-badge&logo=Rapid7&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys-00A8E1?style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 ---
 
-## 🎯 Competências Específicas
+## 📊 GitHub Stats
 
-### 📊 Monitoramento de Segurança
-- **SIEM Management** - LogRhythm, QRadar, Trend Micro Vision One, Wazuh, Splunk, Azure Sentinel
-- **Log Analysis** - Análise de logs de segurança e correlação de eventos
-- **Real-time Monitoring** - Monitoramento em tempo real de ameaças
-- **Alert Triage** - Triagem e priorização de alertas de segurança
+<div align="center">
 
-### 🚨 Resposta a Incidentes
-- **Incident Detection** - Detecção e classificação de incidentes
-- **Threat Containment** - Contenção e isolamento de ameaças
-- **Forensic Analysis** - Análise forense digital
-- **Incident Documentation** - Documentação e relatórios de incidentes
+<img height="175em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Leonardo-009&theme=github_dark&hide_border=true&show_icons=true&icon_color=C1121F&title_color=C1121F&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Leonardo-009&theme=github_dark&hide_border=true&layout=compact&title_color=C1121F"/>
 
-### 🔍 Threat Hunting
-- **Proactive Hunting** - Busca proativa por indicadores de comprometimento
-- **IOC Analysis** - Análise de indicadores de comprometimento
-- **Behavioral Analysis** - Análise comportamental de usuários e sistemas
-- **Threat Intelligence** - Integração de inteligência de ameaças
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-009&theme=github-dark-blue&hide_border=true&ring=C1121F&fire=C1121F&currStreakLabel=C1121F"/>
+
+</div>
 
 ---
 
-## 🏆 Certificações & Conquistas
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonardo-009&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <i>"The best defense is understanding how to attack."</i>
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C1121F&height=100&section=footer"/>
